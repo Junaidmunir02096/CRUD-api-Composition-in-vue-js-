@@ -7,11 +7,11 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 
 firstly install json-server globally
 
-__ npm install -g json-server
+" npm install -g json-server"
 
 
 Now run json-server for api 
 
-__json-server --watch db.json --port 3333
+"json-server --watch db.json --port 3333"
 
 
